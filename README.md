@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Dogukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogukanduman&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanduman&layout=compact)](https://github.com/dogukanduman/github-readme-stats)
+
+
 
